@@ -8,3 +8,4 @@ a = np.array((5,3))
 print(a)
 b = 2
 c = 3
+d = 5
