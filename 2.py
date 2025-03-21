@@ -4,4 +4,6 @@ import math
 import matplotlib
 import os
 import sys
-a = 1
+a = np.array((5,3))
+print(a)
+
